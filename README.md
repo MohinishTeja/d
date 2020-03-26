@@ -51,3 +51,4 @@ Repository for checklist project for HackCOVID2020
   
   <hr>
   
+:+1: This so looks great - it's ready to run! :shipit:
