@@ -55,4 +55,5 @@ Repository for checklist project for HackCOVID2020
 
 Some images:
 
-![First Initial Appearance](https://drive.google.com/file/d/1PrQu7CsvCxlG8UZ9apUpocCqo6EycU9H/view?usp=sharing)
+[First Initial Appearance](https://drive.google.com/file/d/1PrQu7CsvCxlG8UZ9apUpocCqo6EycU9H/view?usp=sharing)
+[ Video Link of the Project] (https://drive.google.com/file/d/14YJHmu267jY61k7tSU0-RPpsLZ03Uny5/view?usp=sharing)
