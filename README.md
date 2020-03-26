@@ -52,3 +52,7 @@ Repository for checklist project for HackCOVID2020
   <hr>
   
 :+1: This so looks great - it's ready to run! :shipit:
+
+Some images:
+
+![First Initial Appearance](https://drive.google.com/file/d/1PrQu7CsvCxlG8UZ9apUpocCqo6EycU9H/view?usp=sharing)
