@@ -56,6 +56,7 @@ Repository for checklist project for HackCOVID2020
 Some images:
 
 [First Initial Appearance](https://drive.google.com/file/d/1PrQu7CsvCxlG8UZ9apUpocCqo6EycU9H/view?usp=sharing)
-[ Video Link of the Project] (https://drive.google.com/file/d/14YJHmu267jY61k7tSU0-RPpsLZ03Uny5/view?usp=sharing)
+[ Video Link of the Project](https://drive.google.com/file/d/14YJHmu267jY61k7tSU0-RPpsLZ03Uny5/view?usp=sharing)
 
 <p>You can see there are no metamask popup in video. It's my screen recorder fau;t only record's current app. Will update with complete version.</p>
+[Metamask Video/gif](https://gifs.com/gif/metamask-D1AoBy)
