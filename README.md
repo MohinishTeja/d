@@ -1,19 +1,19 @@
 # hackcovid-checklist
 Repository for checklist project for HackCOVI2020
-<h1>#CHECKLIST</h1>
+<h1>CHECKLIST</h1>
 
 <h1> Check List for Monitoring patients</h1>
 <p> Currently, COVID-19 is spreading as fast as it can in our Country. We need lot of care to treat the current patients as well. We need a fool proof system to maintain the records of people who are in hospitals as well as in Home Quarantine. 
   So to make this secure we need to record all the data of patient.
   
   <h3>Technologies Used</h3>
-  <li><ul>Ethereum</ul>
-    <ul>Solidity</ul>
-    <ul>IPFS</ul>
-    <ul>node.js</ul>
-    <ul>express.js</ul>
-    <ul>npm</ul>
-  </li>
+  -Ethereum
+  -IPFS
+  -Solidity
+  -node.js
+  -express.js
+  -react.js
+  -npm
   
   <p>
   So we have Dapp that records the events. You can create a event and strike it when it is completed. So for each of this process we have all the data being secured in blockchain. 
@@ -26,10 +26,18 @@ Repository for checklist project for HackCOVI2020
   
   <h2> Tools and Technologies required</h2>
   <hr>
-  1) Truffle and Ganache<br>
-  2) Node and NPM<br>
-  3) Metamask extension<br>
-  4) VS Code(any editor)
+  1. Truffle and Ganache<br>
+  2. Node and NPM<br>
+  3. Metamask extension<br>
+  4. VS Code(any editor)
   <br>
   
   <p>So please install all the required pre-requistes.</p>
+  
+  
+  <hr>
+  
+  <h3> Steps to follow to run the Dapp</h3>
+  
+  1. Install Ganache and Truffle
+  2. open cmd and type ''' npm ''' to check if there's node.js installed in your system.
