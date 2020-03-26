@@ -41,3 +41,10 @@ Repository for checklist project for HackCOVI2020
   
   1. Install Ganache and Truffle
   2. open cmd and type ``` npm ``` to check if there's node.js installed in your system.
+  3. Then navigate to path of the folder by typing 'cd *pathoffile`
+  4. Type `truffle migrate` in cmd
+  5. Then type `cd src`
+  6. Now makesure you have Metamask installed in your browser and Ganache opened.
+  7. Type `nodemon app.js`
+  8. That's it you'll be redirected to live server 3000. if it is not opening then go to your browser and paste this `http://localhost:3000`
+  9. If it does not behave properly on opening,come back and type `truffle migrate --reset` and follow the above procedure.
