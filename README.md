@@ -7,13 +7,13 @@ Repository for checklist project for HackCOVI2020
   So to make this secure we need to record all the data of patient.
   
   <h3>Technologies Used</h3>
-  -Ethereum
-  -IPFS
-  -Solidity
-  -node.js
-  -express.js
-  -react.js
-  -npm
+  - Ethereum
+  - IPFS
+  - Solidity
+  - node.js
+  - express.js
+  - react.js
+  - npm
   
   <p>
   So we have Dapp that records the events. You can create a event and strike it when it is completed. So for each of this process we have all the data being secured in blockchain. 
