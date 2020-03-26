@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Check List</title>
+    </head>
+
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    <style>
+    
+        #completedTaskList .content {
+            color: grey;
+            text-decoration: line-through;
+        }
+        h1{
+            align-content: center;
+            font-family: 'verdana';
+            margin-left: 45%;
+        }
+        p{
+            margin-left: 10%;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+    </style>
+
+    <body>
+        <h1>Check List</h1>
+        <p>Welcome to Check List Dapp</p>
+        <p>Please make sure you enter the pateients name and give this symbol "--" and then enter ipfs hash.</p>
+
+        <p> Before starting make sure GANACHE is running</p>
+
+        <p>Your account address is down below and all transactions are being recorded which can't be modified please be careful</p>
+
+        Account: <span id="account"></span>
+
+        <div id='loader' style="margin:0px;">Loading...</div>
+        
+        <div id="content" class="card container" style="margin-top:30px;">
+
+            <form style="margin:10px" onSubmit="App.createTask(); return false;">
+                <input id="newTask" type="text" class="form-control" placeholder="Add task..." required>
+                <input type="submit" hidden="">
+            </form>
+
+            <ul id="taskList">
+                <div class="taskTemplate" style="display:none">
+                    <label>
+                        <input type="checkbox">
+                        <span class="content"></span>
+                    </label>
+                </div>
+            </ul>
+
+            <hr>
+
+            <ul id="completedTaskList" class="list-unstyled">
+            </ul>
+
+        </div>
+
+    </body>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script language="javascript" type="text/javascript" src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.34/dist/web3.js"></script>
+    <script type="text/javascript" language="javascript" src="index.js"></script>
+    <script src="/contract.js"></script>
+
+</html>
