@@ -40,4 +40,4 @@ Repository for checklist project for HackCOVI2020
   <h3> Steps to follow to run the Dapp</h3>
   
   1. Install Ganache and Truffle
-  2. open cmd and type ''' npm ''' to check if there's node.js installed in your system.
+  2. open cmd and type ``` npm ``` to check if there's node.js installed in your system.
